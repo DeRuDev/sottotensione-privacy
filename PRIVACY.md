@@ -43,7 +43,7 @@ L'app è adatta a tutte le età e non raccoglie dati, quindi è conforme a COPPA
 Se in futuro verrà aggiunto un servizio che tratta dati (per esempio una classifica con backend proprio), questa informativa sarà aggiornata prima del rilascio e la modifica sarà indicata nelle note di versione.
 
 ## Contatti
-Per domande su questa informativa: *[indirizzo email del titolare, da inserire prima della pubblicazione]*.
+Per domande su questa informativa: *[deruvo.software.solution@gmail.com]*.
 
 ---
 
@@ -75,4 +75,4 @@ The app is suitable for all ages and collects no data, so it complies with COPPA
 If a data-processing service is ever added (for example a leaderboard with our own backend), this policy will be updated before release and the change noted in the release notes.
 
 ## Contact
-Questions about this policy: *[owner's email address, to be filled in before publication]*.
+Questions about this policy: *[deruvo.software.solution@gmail.com]*.
