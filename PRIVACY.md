@@ -45,6 +45,9 @@ Se in futuro verrà aggiunto un servizio che tratta dati (per esempio una classi
 ## Contatti
 Per domande su questa informativa: *[deruvo.software.solution@gmail.com]*.
 
+## Assistenza
+Per segnalazioni, problemi o domande sul gioco: scrivi a deruvo.software.solution@gmail.com  Rispondiamo in Italiano e in Inglese
+
 ---
 
 # Privacy Policy — Sotto Tensione (English)
