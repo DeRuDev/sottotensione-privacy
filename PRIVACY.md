@@ -23,7 +23,7 @@ Sono questi servizi, non noi, a gestire la tua identità di gioco (nickname e av
 - Google: https://policies.google.com/privacy
 - Apple: https://www.apple.com/legal/privacy/
 
-Puoi usare l'app senza accedere ad alcun servizio: in quel caso la classifica mostra solo dati di esempio e nulla viene inviato.
+Puoi usare l'app senza accedere ad alcun servizio: in quel caso la classifica mostra soltanto il tuo punteggio, preso dalla memoria del dispositivo e nulla viene inviato.
 
 ## Quello che non facciamo
 - Nessuna pubblicità, nessun SDK pubblicitario o di tracciamento.
